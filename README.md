@@ -1,37 +1,35 @@
-# KMPG_AU_Data_Analytics_Consulting
+# KMPG AU Data Analytics Consulting
 
-This repository contains my solutions and project work for the KPMG AU Data Analytics Virtual Internship offered by Forage.
+Welcome to my repository, where I've documented my work and solutions for the KPMG AU Data Analytics Virtual Internship offered by Forage. This internship focuses on providing data-driven solutions to Sprocket Central Pty Ltd, a medium-sized bikes and cycling accessories organization. In this repository, you'll find my contributions to this project.
 
-### Project Overview
+## Project Overview
 
-Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
+Sprocket Central Pty Ltd has partnered with KPMG's Lighthouse & Innovation Team, led by Tony Smith, to explore KPMG's expertise in analytics, information, and modeling. This collaboration aims to leverage data analysis to drive growth for Sprocket Central Pty Ltd.
 
-Smith discusses KPMG’s expertise in this space (you can read more here). In particular, he speaks about how the team can effectively analyse the datasets to help Sprocket Central Pty Ltd grow its business.
+The primary challenge faced by Sprocket Central Pty Ltd involves effectively analyzing their customer and transaction data to optimize their marketing strategy. While the organization possesses a substantial dataset related to its customers, they need guidance on how to analyze it effectively.
 
-Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
+To support this analysis, the Associate Director stressed the critical importance of data quality, emphasizing that the better the quality of the dataset, the greater the potential for driving company growth.
 
-However, in order to support the analysis, you speak to the Associate Director for some ideas and she advised that “the importance of optimising the quality of customer datasets cannot be underestimated. The better the quality of the dataset, the better chance you will be able to use it drive company growth.”
+The client has provided KPMG with three datasets:
 
-The client provided KPMG with 3 datasets:
+1. Customer Demographic
+2. Customer Addresses
+3. Transaction data from the past three months
 
-Customer Demographic 
-Customer Addresses
-Transactions data in the past 3 months
+## Repository Structure
 
+This repository is organized as follows:
 
-### This repository is organized as follows:
+- **Data Quality Assessment**: This directory contains the dataset provided for the internship project. It includes a Jupyter Notebook file (.ipynb) that contains the code used to review the data quality. Additionally, there is a PDF file that presents the email solution for the first task, highlighting data issues and recommendations for improving data quality.
 
-- Data Quality Assessment: This directory contains the dataset provided for the internship project, a .ipynb file containing the code used to review the data quality and a .pdf as the email for solution for the first task with all the issues identified on the the data and recommendations going forward to mitigate current data quality concerns as well.
-- Data Analytics Approach : This directory contains a .pdf with the presentation for the customer that contain a suggestion of a framework to be used when conducting this project to optimise resource allocation for targeted marketing by focusing on high value customers.
-- Data Insights and Presentation: This directory includes the visualizations and the dashboards created during the internship in .twbx format made with PowerBI along with the xlsx files of current and target customers for data analysis.
+- **Data Analytics Approach**: In this directory, you'll find a PDF presentation outlining a suggested framework for the project. This framework aims to optimize resource allocation for targeted marketing by focusing on high-value customers.
 
+- **Data Insights and Presentation**: This directory includes visualizations and dashboards created during the internship. These are provided in .twbx format, created with PowerBI. The directory also contains XLSX files that include information on current and target customers for data analysis.
 
+## Get in Touch
 
+I'm excited to share the results of this project and the skills I've developed along the way. If you'd like to discuss collaborations, provide feedback, or simply connect over our shared passion for data, please feel free to reach out to me at serpamarketeer@gmail.com.
 
-### Get in Touch
+Thank you for visiting my portfolio.
 
-I am excited to share my projects and the skills I've honed along the way. Feel free to reach out to me at serpamarketeer@gmail.com to discuss collaborations, provide feedback, or simply connect over our shared passion for data!
-
-Thank you for visiting my portfolio. 
-
-Rúben Serpa - www.linkedin.com/in/rubenserpanalytics
+Rúben Serpa - [LinkedIn Profile](www.linkedin.com/in/rubenserpanalytics)
